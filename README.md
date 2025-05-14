@@ -28,18 +28,16 @@ Suggestions to improve:
 ❌ Add uppercase letters
 ❌ Add special characters
 
-What I Learned
-Python basics like conditionals, input/output, and functions
-Regular expressions (re module) to check patterns
-Basic password security principles used in cybersecurity
-How to create and share a project on GitHub
+## 📚 What I Learned
 
-Future Plans
-Build a graphical version using Tkinter
-Add password blacklist to check against common passwords
-Export results to a log file
-Turn it into a simple web app using Flask
+- How to use Python conditionals and functions
+- Pattern matching with regular expressions (`re` module)
+- Basic password security principles (length, complexity, etc.)
+- How to set up and share a project on GitHub
 
-Technologies Used
-Python 3.x
-VS Code
+## 🚀 Future Plans
+
+- Build a version with a graphical interface (Tkinter)
+- Add checks for commonly used passwords
+- Save results to a log file
+- Convert to a Flask-based web app in the future
